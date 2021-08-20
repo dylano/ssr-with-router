@@ -1,4 +1,4 @@
-# React - SSR & with React Router
+# React - SSR & React Router
 ## Available Scripts
 
 In the project directory, you can run:
